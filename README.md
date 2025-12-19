@@ -28,6 +28,7 @@ Sígueme en redes sociales<br><br>
 | 15  | ✏️ Dibujando tablas                 |     🟡     | ⭐⭐⭐⭐⭐⭐⭐⭐ | [Ver código](2025/15.js) |
 | 16  | 🎁 Empaquetando regalos para Santa  |     🟢     | ⭐⭐⭐⭐⭐⭐⭐⭐ | [Ver código](2025/16.js) |
 | 17  | 🎄 El panel de luces navideñas      |     🟢     | ⭐⭐⭐⭐⭐⭐⭐⭐ | [Ver código](2025/17.js) |
+| 18  | 🎄 Luces en línea con diagonales    |     🟡     | ⭐⭐⭐⭐⭐⭐⭐⭐ | [Ver código](2025/18.js) |
 
 ## ✅ ¿Cómo probar los códigos? ✅
 
